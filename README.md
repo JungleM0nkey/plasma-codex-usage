@@ -2,6 +2,8 @@
 
 A Plasma 6 panel widget for Codex account limits. It shows short-window and weekly usage with reset times.
 
+![Codex Usage widget showing 42% usage](docs/screenshot.png)
+
 ## Requirements
 
 - KDE Plasma 6
