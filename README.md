@@ -17,6 +17,6 @@ kpackagetool6 --type Plasma/Applet --install .
 
 Open **Add Widgets** and add **Codex Usage** to a panel.
 
-The widget asks `codex app-server` for `account/rateLimits/read`. Codex CLI keeps control of your credentials.
+The widget asks `codex app-server` for `account/rateLimits/read`. Codex takes care of auth.
 
 License: GPL-3.0-or-later.
