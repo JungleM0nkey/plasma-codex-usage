@@ -2,7 +2,7 @@
 
 A Plasma 6 panel widget for Codex account limits. It shows short-window and weekly usage with reset times.
 
-<img src="docs/readme-preview.png" alt="Codex Usage widget showing 42% usage" width="540">
+<img src="docs/widget-preview.png" alt="Codex Usage widget showing current account limits" width="400">
 
 ## Requirements
 
